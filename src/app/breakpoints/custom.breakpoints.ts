@@ -3,7 +3,7 @@ import {BREAKPOINT} from '@angular/flex-layout';
 const PRINT_BREAKPOINTS = [{
   alias: 'xs.print',
   suffix: 'XsPrint',
-  mediaQuery: 'print and (max-width: 400px)',
+  mediaQuery: '(max-width: 400px)',
   overlapping: false
 }];
 

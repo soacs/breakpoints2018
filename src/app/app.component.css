@@ -1,8 +1,30 @@
 
 .first {
-  background:white;
+  background:lightblue;
+  text-align: center;
+  height: 100px;
 }
 
 .second {
-  background:white;
+  background:dodgerblue;
+  padding:5px;
+
 }
+
+h1 {
+  text-align: center;
+  color: indianred;
+
+}
+
+h2 {
+  text-align: center;
+  color: green;
+
+}
+
+div {
+  background: lightseagreen;
+  padding:10px;
+}
+
